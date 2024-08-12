@@ -22,16 +22,16 @@ README
 * Run the program from the command line or terminal with the appropriate arguments.
 * The general format for running the program is as follows:
 * 
-*  ./main.out <operation> <filename> <key>
+* ./main.out <operation> <filename> <key>
 *   
 * 
 * Where:
 * - The operation you wish to perform. Options include:
-*              encrypt_text, decrypt_text, compress_text, encrypt_image, decrypt_image.
+* encrypt_text, decrypt_text, compress_text, encrypt_image, decrypt_image.
 *   
 * - The name of the file on which the operation will be performed.
 * - A sequence of uppercase letters that will serve as the key for
-*              encryption or decryption operations.
+* encryption or decryption operations.
 *   
 * 
 * Examples:
