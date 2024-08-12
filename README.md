@@ -26,15 +26,13 @@ README
 *   
 * 
 * Where:
-* - The operation you wish to perform. Options include:
-* encrypt_text, decrypt_text, compress_text, encrypt_image, decrypt_image.
-*   
+* - The operation you wish to perform. Options include: encrypt_text, decrypt_text, compress_text, encrypt_image, decrypt_image.
 * - The name of the file on which the operation will be performed.
 * - A sequence of uppercase letters that will serve as the key for
 * encryption or decryption operations.
 *   
 * 
-* Examples:
+* Example Usage:
 * To encrypt a text file named 'example.txt' with the key 'KEY':
 *  ./main.out encrypt_text example.txt KEY
 *   
