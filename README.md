@@ -22,7 +22,7 @@ README
 * Run the program from the command line or terminal with the appropriate arguments.
 * The general format for running the program is as follows:
 * 
-* ./main.out <operation> <filename> <key>
+* ./main.out operation filename key
 *   
 * 
 * Where:
